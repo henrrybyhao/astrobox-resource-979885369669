@@ -3,7 +3,7 @@
     "id": "979885369669",
     "restype": "watchface",
     "name": "腕上对战",
-    "description": "**腕上对战**是一款运行在智能手表上的双人五子棋应用，支持两台设备通过蓝牙直接联机，无需手机中继。双方核对六码并确认后即可开始对局，在腕上完成落子、查看棋盘和重新开始等操作。应用付费 **4.88 元**，购买后即可使用完整联机对战功能。",
+    "description": "**腕上对战**是一款运行在智能手表上的双人五子棋应用，支持两台设备通过蓝牙直接联机，无需手机中继。双方核对六码并确认后即可开始对局，在腕上完成落子、查看棋盘和重新开始等操作。应用付费 **4.88 元**，购买后即可使用完整联机对战功能。部分机型有可能存在问题请加入qq群反馈问题尽快修复",
     "preview": [
       "media/Shell++_1 (1).png",
       "media/Shell++_2.png",
@@ -32,24 +32,92 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/腕上对战-watch6-20261103.face",
-      "versionCode": 65536
+      "version": "2.0.0",
+      "file_name": "downloads/腕上对战-红米Watch6-20261114.face",
+      "versionCode": 131072,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/腕上对战-band10-20261103.face",
-      "versionCode": 65536
+      "version": "2.0.0",
+      "file_name": "downloads/腕上对战-小米手环10-20261114.face",
+      "versionCode": 131072,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/腕上对战-band10-20261103.face",
-      "versionCode": 65536
+      "version": "2.0.0",
+      "file_name": "downloads/腕上对战-小米手环10-20261114.face",
+      "versionCode": 131072,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
     },
     "xmb9": {
+      "version": "2.0.0",
+      "file_name": "downloads/腕上对战-小米手环9普通版-20261114.face",
+      "versionCode": 131072,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/腕上对战-小米手环10Pro-20261114.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
+    },
+    "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/腕上对战-小米手环9普通版-20261104.face",
-      "versionCode": 65536
+      "file_name": "downloads/腕上对战-小米手环11-20261114.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/腕上对战-小米手环11-20261114.face",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/腕上对战-小米手环9Pro-20261114.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "",
+          "content": "新加入围棋\n加入狼人杀\n修复一些问题适配更多机型"
+        }
+      ]
     }
   },
   "ext": {
